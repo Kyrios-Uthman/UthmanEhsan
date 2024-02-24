@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **uthman1227@gmail.com**
 
-- 📄 Know about my experiences [https://usmanehsan.netlify.app/](https://usmanehsan.netlify.app/)
+- 📄 Know about my experiences [[https://usmanehsan.netlify.app/](https://usmanehsan.netlify.app/](https://uthman.vercel.app/))
 
 - ⚡ Fun fact **Yes, I am Funny**
 
